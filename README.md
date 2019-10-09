@@ -5,4 +5,8 @@ This repository contains the practicals follow-up guide and code file( mostly ju
 
 [06/10/2019]
 
-I'm adding the file and code of practical done on 02/10/19 practical B session headed by the Module leader Dr.Yi Sun
+Adding the notes and code of practical done on 02/10/19 practical B session headed by the Module leader Dr.Yi Sun
+
+[09/10/2019]
+
+Addimg notes of the second practical.
