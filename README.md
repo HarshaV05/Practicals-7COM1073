@@ -9,4 +9,4 @@ Adding the notes and code of practical done on 02/10/19 practical B session head
 
 [09/10/2019]
 
-Addimg notes of the second practical.
+Adding notes of the second practical.
