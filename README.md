@@ -10,3 +10,7 @@ Adding the notes and code of practical done on 02/10/19 practical B session head
 [09/10/2019]
 
 Adding notes of the second practical.
+
+[10/10/2019]
+
+Code of first practical with answer to normlaisation question added.
