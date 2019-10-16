@@ -14,3 +14,7 @@ Adding notes of the second practical.
 [10/10/2019]
 
 Code of first practical with answer to normlaisation question added.
+
+[16/10/2019]
+
+Adding notes of the third practical.
